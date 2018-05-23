@@ -1,1 +1,1 @@
-web: gunicorn caqe:app --chdir src --log-file=-
+web: gunicorn caqe:tseptest --chdir src --log-file=-
